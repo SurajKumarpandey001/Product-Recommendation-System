@@ -36,7 +36,7 @@ project/ │ ├── static/ │ └── images/ # Product images │ ├─
 
 ### 1. Clone the repository
 
-git clone https://github.com/ChAtulKumarPrusty/Product-Recommendation-System.git
+git clone https://github.com/SurajKumarpandey001/Product-Recommendation-System
 cd product-recommendation-system
 
 
@@ -72,6 +72,6 @@ Add filters for categories, brands, and price range
 Deploy the app to a public cloud (Heroku, Render, AWS)
 
 🙌 Authors
-Ch Atul Kumar Prusty
+Suraj Kumar
 
 Let me know if you want a requirements.txt or a badge-enhanced version of this README!
